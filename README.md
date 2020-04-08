@@ -10,12 +10,10 @@
 5) pkg install python
 6) pkg install python2
 7) pkg install openssh
-
-git clone https://github.com/bednakovdenis/sms.git
+8) git clone https://github.com/bednakovdenis/sms.git
 9) cd sms
-10) tsu
-11) chmod +x ./tron
-12) ./tron
+10) chmod +x ./tron
+11) ./tron
 
 Проблема с 64 бит
 
@@ -41,3 +39,8 @@ $ unset LD_PRELOAD
 - 3 Это режим SMS + Звонок
 - 1 Показывать только удачные
 - 60 Время в секундах ( Если значение 0 то бесконечно ) разработчик: https://github.com/bednakovdenis Bednakov_Xack-Live
+# Мои контакты 
+
+denisbednakov@gmail.com
+
+https://www.facebook.com/Bednakov-Xack-Live-110365023961441
