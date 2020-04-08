@@ -10,6 +10,7 @@
 5) pkg install python
 6) pkg install python2
 7) pkg install openssh
+
 git clone https://github.com/bednakovdenis/sms.git
 9) cd sms
 10) tsu
